@@ -1,0 +1,77 @@
+/*
+responsive-download.css
+*/
+
+/*ipad tablet */
+@media only screen and (device-width: 768px) {
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+
+}
+
+/******All mobile for will applied*****/
+/*start for mobile*/
+
+@media only screen and  (max-width: 767px) {
+
+}
+
+/*end for mobile*/
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 521px) {
+
+}
+
+@media only screen and (min-width: 520px) and (max-width: 640px) {
+
+}
+
+@media only screen and (min-width: 639px) and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .icon-3 .fa-envelope, .icon-3 .fa-phone, .icon-3.fa-map-marker {
+        padding-right: 3px;
+    }
+
+    .text-66 {
+        padding-left: 0em;
+    }
+
+    .btn-btn-4 {
+        font-size: 0.8em;
+    }
+    .text-63 {
+
+        font-size: 1.2em;
+        letter-spacing: 2px;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1179px) {
+    .icon-2 .fa-twitter {
+        padding: 5px 3px;
+    }
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1200px) {
+
+}
+
+@media only screen and (min-width: 1201px) and (max-width: 1500px) {
+    .download-right {
+        padding-bottom: 0.8em;
+    }
+
+}

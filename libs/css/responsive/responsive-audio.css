@@ -1,0 +1,64 @@
+/*
+responsive audio page
+*/
+
+/*ipad tablet */
+@media only screen and (device-width: 768px) {
+    .text-39 {
+        font-size: 1.2em;
+    }
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+    .text-39 {
+        font-size: 1.2em;
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+    .text-39 {
+        font-size: 1.2em;
+    }
+}
+
+/******All mobile for will applied*****/
+/*start for mobile*/
+
+@media only screen and  (max-width: 767px) {
+    .text-39 {
+        letter-spacing: 0.3em;
+    }
+}
+
+/*end for mobile*/
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 521px) {
+
+
+}
+
+@media only screen and (min-width: 520px) and (max-width: 640px) {
+
+}
+
+@media only screen and (min-width: 639px) and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1179px) {
+
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1500px) {
+
+}

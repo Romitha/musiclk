@@ -1,0 +1,5 @@
+    <!--                            <h1 data-animation="animated zoomInLeft" class="cap-txt ">We are amazing</h1>-->
+                            <!--                            <p data-animation="animated bounceInDown">Get start your next awesome project</p>-->
+                            <!--                            <button data-animation="animated bounceInUp"-->
+                            <!--                                    class="button button--tamaya button--border-thick" data-text="Send">-->
+                            <!--                                <span>Send</span></button>-->

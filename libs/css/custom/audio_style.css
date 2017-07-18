@@ -1,0 +1,165 @@
+/*
+audio page style
+*/
+
+.text-39 {
+    margin-top: 0.9em;
+    margin-bottom: 0px;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    font-weight: 400;
+    height: 2.2em;
+    max-height: 2.2em;
+    font-size: 1.7em;
+}
+
+/****************
+    audio slider
+****************/
+.sub_img {
+    padding-top: 10px;
+    overflow: hidden;
+}
+
+.sub_img img, .main-img {
+    cursor: pointer;
+}
+
+.sub_img img {
+    float: left;
+    margin-right: 6px;
+}
+
+.main-img {
+    height: 24em;
+    max-height: 24em;
+    object-fit: cover;
+}
+
+.main-image {
+    position: relative;
+    border: 6px solid #9f9d9d;
+    background-color: #fff;
+    padding: 0.6em;
+}
+
+.text-38 {
+    font-size: 1.5em;
+    margin-top: 0.7em;
+    margin-bottom: 0em;
+    text-transform: capitalize;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 600;
+    letter-spacing: 2px;
+}
+
+.text-40 {
+    font-size: 1.2em;
+    margin-top: 0em;
+    margin-bottom: 0.8em;
+    text-transform: capitalize;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 300;
+    letter-spacing: 3px;
+}
+
+.text-41 {
+    font-size: 0.8em;
+    margin-top: 0em;
+    margin-bottom: 1em;
+    text-transform: capitalize;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+    letter-spacing: 3px;
+    height: 7em;
+    max-height: 7em;
+    text-align: justify;
+}
+
+.link-4 {
+    background-color: #636363;
+    color: #fff;
+    font-size: 1em;
+    letter-spacing: 3px;
+    padding: 0.6em 1em;
+    border-radius: 0.5em;
+}
+
+.link-4:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.main_img:hover, .text-38:hover, .text-39:hover, .text-40:hover, a.link-5, .text-42:hover, .text-43:hover, a.link-6 {
+    text-decoration: none;
+
+}
+
+.text-42 {
+    font-size: 1.6em;
+    margin-top: 0.4em;
+    margin-bottom: 0.8em;
+    text-transform: capitalize;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+    letter-spacing: 3px;
+    text-align: justify;
+}
+
+.text-43 {
+    font-size: 0.8em;
+    margin-top: 0.2em;
+    margin-bottom: 1em;
+    text-transform: capitalize;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    font-weight: 500;
+    letter-spacing: 2px;
+    text-align: justify;
+    height: 8em;
+    max-height: 8em;
+}
+
+.sub_img {
+    list-style:none;
+    padding:0px
+}
+
+.sub_img img {
+    /*width:200px;*/
+    margin:0px;
+    display:inline-block;
+    object-fit: cover;
+}
+
+.sub_img li {
+    width:210px;
+    margin: 0;
+    padding-right: 0.8em;
+    padding-bottom: 0.8em;
+}
+
+
+.link-7 {
+    background-color: transparent;
+    border:2px solid #f2f2f2;
+    color:  #f2f2f2;
+    font-size: 1em;
+    letter-spacing: 3px;
+    padding: 0.4em 1em;
+    border-radius: 0.5em;
+}
+
+.link-7:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+
+/*end audio slider*/

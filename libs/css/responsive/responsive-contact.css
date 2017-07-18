@@ -1,0 +1,93 @@
+/*
+*/
+
+/*
+responsive audio page
+*/
+
+/*ipad tablet */
+@media only screen and (device-width: 768px) {
+
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+
+}
+
+/******All mobile for will applied*****/
+/*start for mobile*/
+
+@media only screen and  (max-width: 767px) {
+    .border-3{
+        border-left: 1px solid transparent;
+    }
+    .contact-info-1 {
+        margin-bottom: 1em;
+    }
+}
+
+/*end for mobile*/
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 521px) {
+
+
+}
+
+@media only screen and (min-width: 520px) and (max-width: 640px) {
+    .text-80 {
+        font-size: 0.6em;
+    }
+    .text-81 {
+        font-size: 1.2em;
+    }
+    .text-82 {
+        font-size: 0.5em;
+    }
+    .text-79 {
+        font-size: 1.3em;
+    }
+}
+
+@media only screen and (min-width: 639px) and (max-width: 767px) {
+    .text-80 {
+        font-size: 0.6em;
+    }
+    .text-81 {
+        font-size: 1.2em;
+    }
+    .text-82 {
+        font-size: 0.5em;
+    }
+    .text-79 {
+        font-size: 1.3em;
+    }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .text-80 {
+        font-size: 0.6em;
+    }
+    .text-81 {
+        font-size: 1.2em;
+    }
+    .text-82 {
+        font-size: 0.6em;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1179px) {
+
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1500px) {
+
+}

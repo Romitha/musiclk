@@ -1,0 +1,481 @@
+/*
+download page css
+*/
+
+.artist-profile-img img {
+    object-fit: cover;
+    height: 20em;
+    max-height: 20em;
+    width: 100%;
+}
+
+.artist-title {
+    margin-top: 0.2em;
+}
+
+.artist-pro {
+    padding: 0.8em;
+    margin-top: 0.5em;
+}
+
+.btn-btn-1 {
+    color: #f2f2f2;
+    background-color: #2a4e94;
+    border-color: #2a4e94;
+    padding: 4px 0px;
+    margin-bottom: 0.4em;
+    font-size: 0.9em;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border-radius: 5px;
+    margin-top: 0.4em;
+    display: block;
+    width: 100%;
+    letter-spacing: 2px;
+}
+
+.btn-btn-1:hover {
+    outline: 0;
+    color: #f2f2f2;
+}
+
+.btn-btn-2 {
+    color: #7f7a7a;
+    background-color: #f3f1f1;
+    border-color: #7f7a7a;
+    padding: 6px 0px;
+    margin-bottom: 0.4em;
+    font-size: 1.2em;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border-radius: 5px;
+    margin-top: 0.1em;
+    display: block;
+    width: 100%;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+.btn-btn-2:hover, .btn-btn-2:focus {
+    outline: 0;
+    color: #7f7a7a;
+}
+
+.text-44 {
+    color: #736e6e;
+    margin-top: 1px;
+    margin-bottom: 10px;
+    font-size: 3em;
+    font-weight: 600;
+    letter-spacing: 6px;
+}
+
+.text-45 {
+    font-weight: 200;
+}
+
+p.text-46 {
+    color: #3b3939;
+    letter-spacing: 3px;
+    font-weight: 400;
+    font-size: 1em;
+    height: 3em;
+    max-height: 3em;
+    overflow: hidden;
+}
+
+.text-47 {
+    color: #736e6e;
+    margin-top: 1px;
+    margin-bottom: 1.4em;
+    font-size: 1.3em;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+
+.text-48 {
+    font-weight: 600;
+}
+
+.artist-img-pro img {
+    object-fit: cover;
+    border-radius: 0.8em;
+    height: 12em;
+    max-height: 12em;
+    padding-right: 0.4em;
+}
+
+.text-49 {
+    color: #313131;
+    letter-spacing: 3px;
+    font-weight: 700;
+    font-size: 0.9em;
+    height: 3em;
+    max-height: 3em;
+    text-align: center;
+    margin-top: 0.4em;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.text-50 {
+    color: #3b3939;
+    letter-spacing: 3px;
+    font-weight: 500;
+    font-size: 2em;
+    text-align: left;
+    margin-top: 0em;
+    margin-bottom: 0px;
+}
+
+.text-51 {
+    color: #3b3939;
+    letter-spacing: 3px;
+    font-weight: 600;
+    font-size: 0.8em;
+    text-align: left;
+    margin-top: 0.4em;
+    margin-bottom: 0;
+    line-height: 1;
+}
+
+.artist-des-1 {
+    padding: 0.8em;
+}
+
+.icon-1 {
+    color: #3a3838;
+    padding: 7px 7px;
+    border: 1px solid #3a3838;
+    border-radius: 5px;
+    width: 2em;
+    max-width: 2em;
+}
+
+.song-profile img {
+    object-fit: cover;
+    height: 22em;
+    border-radius: 6px;
+}
+
+h6.text-52 {
+    color: #3b3939;
+    font-size: 1.1em;
+    margin-top: 4px;
+    text-align: left;
+    text-transform: capitalize;
+    display: table;
+    white-space: nowrap;
+    letter-spacing: 3px;
+}
+
+h6.text-52:after {
+    border-top: 1px solid rgb(171, 171, 171);
+    content: '';
+    display: table-cell;
+    position: relative;
+    top: 0.5em;
+    width: 100%;
+}
+
+h6.text-52:after {
+    left: 0%;
+}
+
+.text-53 {
+    color: #3b3939;
+    font-size: 1.1em;
+    margin-top: 4px;
+    text-align: -webkit-left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    letter-spacing: 3px;
+    padding-left: 10px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+
+.text-54 {
+    color: #3b3939;
+    font-size: 1.5em;
+    margin-top: 4px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    letter-spacing: 3px;
+}
+
+.text-55 {
+    color: #3b3939;
+    font-size: 1.8em;
+    margin-top: 4px;
+    text-align: center;
+    text-transform: capitalize;
+    white-space: nowrap;
+    letter-spacing: 3px;
+    border: 1px solid #b1b1b1;
+    border-radius: 6px;
+}
+
+.text-56 {
+    color: #3b3939;
+    font-size: 0.9em;
+    margin-top: 4px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    letter-spacing: 3px;
+    font-weight: 500;
+}
+
+.text-57 {
+    color: #3b3939;
+    font-size: 2em;
+    margin-top: 4px;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    letter-spacing: 2px;
+    font-weight: 500;
+}
+
+/*
+start tabs
+*/
+.tabs-section {
+    position: relative;
+    clear: both;
+    min-height: 50em;
+}
+
+.tab {
+    float: left;
+    margin-right: 0.4em;
+}
+
+.tab:hover, .tab:focus,.icon-1:hover {
+    cursor: pointer;
+}
+
+.tab label.title-lable {
+    background: #555555;
+    border: 1px solid #555;
+    margin-left: -1px;
+    position: relative;
+    left: 1px;
+    color: #f2f2f2;
+    border-radius: 7px;
+    font-size: 0.8em;
+    font-weight: 400;
+    width: 9em;
+    display: grid;
+    padding: 14px;
+    height: 10em;
+    max-width: 10em;
+}
+
+.tab label.title-lable:hover {
+    cursor: pointer;
+
+}
+
+.tab [type=radio] {
+    display: none;
+}
+
+.content {
+    position: absolute;
+    top: 8.5em;
+    left: 0;
+    background: #ebe8e8;
+    right: 0;
+    bottom: 0;
+    padding: 20px;
+    border: 1px solid #ccc;
+    height: auto;
+}
+
+[type=radio]:checked ~ label.title-lable {
+    background: #555555;
+    border-bottom: 1px solid white;
+    z-index: 2;
+}
+
+[type=radio]:checked ~ label ~ .content {
+    z-index: 1;
+}
+
+.icon-2 .fa-microphone {
+    font-size: 4.1em;
+    padding-top: 0.2em;
+    padding-bottom: 8px;
+}
+
+.icon-2 .fa-music {
+    font-size: 4em;
+    padding-top: 0.2em;
+    padding-bottom: 8px;
+}
+
+/*
+end tabs
+*/
+
+.text-58 {
+    color: #000000;
+    font-size: 1.2em;
+    margin-top: 1em;
+    text-align: left;
+    text-transform: uppercase;
+    white-space: nowrap;
+    letter-spacing: 1px;
+    font-weight: 500;
+    border-bottom: 1px solid #797979;
+    padding-bottom: 0.7em;
+}
+
+.text-59 {
+    color: #4d4848;
+    font-size: 1.1em;
+    margin-top: 1em;
+    text-align: left;
+    text-transform: capitalize;
+    /*white-space: nowrap;*/
+    letter-spacing: 0.2px;
+    font-weight: 500;
+}
+
+.related-artist {
+    margin-right: 0.4em;
+    margin-left: 0.4em;
+}
+
+.related-artist-img img {
+    object-fit: cover;
+    height: 9.2em;
+    max-height: 9.2em;
+    border-radius: 8px;
+}
+
+.text-60 {
+    color: #4d4848;
+    font-size: 1.1em;
+    text-align: left;
+    text-transform: capitalize;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    border: 1px solid rgba(199, 199, 199, 0.96);
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-weight: 900;
+    margin-right: 0.3em;
+}
+
+.text-61 {
+    color: #000000;
+    font-size: 1.2em;
+    margin-top: 0.1em;
+    text-align: left;
+    text-transform: uppercase;
+    /*white-space: nowrap;*/
+    letter-spacing: 0.2px;
+    font-weight: 700;
+    padding-bottom: 0em;
+}
+
+.btn-btn-3 {
+    color: #f2f2f2;
+    background-color: #2a4e94;
+    border-color: #2a4e94;
+    padding: 13px 0px;
+    margin-bottom: 0.4em;
+    font-size: 0.8em;
+    font-weight: 400;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-image: none;
+    border-radius: 5px;
+    margin-top: 0.4em;
+    display: block;
+    width: 100%;
+    letter-spacing: 1.5px;
+}
+
+.btn-btn-3:hover, .btn-btn-3:after{
+    outline: 0;
+    color: #f2f2f2;
+}
+
+.text-62 {
+    color: #000000;
+    font-size: 1.2em;
+    margin-top: 1em;
+    text-align: left;
+    text-transform: uppercase;
+    white-space: nowrap;
+    letter-spacing: 0.2px;
+    font-weight: 700;
+    padding-bottom: 0em;
+}
+
+.border-2 {
+    border-bottom: 1px solid #2a4e94;
+    padding-bottom: 1em;
+
+}
+
+.download-left{
+    padding: 0.8em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+.download-right{
+    padding: 0.8em;
+
+
+}
+
+.pad-1{
+    padding-bottom: 25em;
+}
+.pad-2{
+    padding-bottom: 3.3em;
+}
+.related-artist-img:hover{
+    cursor: pointer;
+}
+
